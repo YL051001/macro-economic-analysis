@@ -17,4 +17,4 @@ Several limitations were identified in this analysis. Data gaps were present for
 
 ### 6. AI Disclosure
 AI Tool Used: Manus (AI Agent Platform), model: gpt-4o, access date: April 2026.  
-Used for: structuring the project workflow, drafting the reflection report, and suggesting visualisation approaches. All Python code was reviewed and understood by YL. Final analytical decisions, interpretations, and the reflection were personally authored by YL.
+Used for: structuring the project workflow, drafting the reflection report, and suggesting visualisation approaches. All Python code was reviewed and understood by Liang Ye. Final analytical decisions, interpretations, and the reflection were personally authored by Liang Ye.
