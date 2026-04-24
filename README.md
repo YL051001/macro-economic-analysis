@@ -39,7 +39,7 @@ The project leveraged several Python libraries for data acquisition, processing,
 3.  Open and run `macro_analysis.ipynb` in Jupyter Notebook or JupyterLab to reproduce the analysis and visualizations.
 
 ## Product / Video Link
-*(To be updated with the demo video link once available)*
+https://video.xjtlu.edu.cn/Mediasite/Play/44f0346b5f254cd5bcdeabcf7030ae201d
 
 ## Limitations and Improvements
 **Limitations:**
